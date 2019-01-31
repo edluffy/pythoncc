@@ -26,3 +26,7 @@ for name, places in favourite_places.items():
 			print place.capitalize() + "."
 		else:
 			print place.capitalize() + ",",
+new_list = {
+	'list1': ['element1', 'element2', 'element3']
+	'list2':
+}
